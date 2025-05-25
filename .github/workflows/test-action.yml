@@ -9,4 +9,4 @@ jobs:
 
     steps:
       - name: 24ds1000132@ds.study.iitm.ac.in
-        run: echo "Hello, world from GitHub Actions!"
+        run: echo "Hello, world!"
